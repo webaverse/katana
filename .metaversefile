@@ -1,4 +1,6 @@
 {
+  "name": "katana",
+  "description": "katana",
   "start_url": "https://webaverse.github.io/loot-assets/weapon/Katana/katana.glb",
   "components": [
     {
